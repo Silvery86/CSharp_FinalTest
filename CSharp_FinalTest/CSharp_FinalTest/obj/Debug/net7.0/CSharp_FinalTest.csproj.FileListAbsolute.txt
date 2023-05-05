@@ -1,0 +1,15 @@
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/bin/Debug/net7.0/CSharp_FinalTest
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/bin/Debug/net7.0/CSharp_FinalTest.deps.json
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/bin/Debug/net7.0/CSharp_FinalTest.runtimeconfig.json
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/bin/Debug/net7.0/CSharp_FinalTest.dll
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/bin/Debug/net7.0/CSharp_FinalTest.pdb
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/CSharp_FinalTest.csproj.AssemblyReference.cache
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/CSharp_FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/CSharp_FinalTest.AssemblyInfoInputs.cache
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/CSharp_FinalTest.AssemblyInfo.cs
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/CSharp_FinalTest.csproj.CoreCompileInputs.cache
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/CSharp_FinalTest.dll
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/refint/CSharp_FinalTest.dll
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/CSharp_FinalTest.pdb
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/CSharp_FinalTest.genruntimeconfig.cache
+/Users/Giang8692/Projects/CSharp_FinalTest/CSharp_FinalTest/obj/Debug/net7.0/ref/CSharp_FinalTest.dll
